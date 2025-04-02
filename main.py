@@ -7,6 +7,8 @@ import json
 
 ctk.set_appearance_mode("dark")
 
+#Hello
+
 gradient_colors = cycle([ 
     "#ff0000", "#ff4000", "#ff8000", "#ffbf00", "#ffff00", 
     "#bfff00", "#80ff00", "#40ff00", "#00ff00", "#00ff40", 
